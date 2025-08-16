@@ -8,3 +8,6 @@ This repository is to see whether am I truly learning something or not..
 
 I did not wished for this program anyway (I've always wanted to be an Architect but fate brought me here).
 Anyways thank you!
+
+Idk if you can comment in GitHub but it will be highly appreciated if you can & actually leave a comment hahah.
+Like for tips, what to practice, how to practice and most importantly why do I need to practice.
